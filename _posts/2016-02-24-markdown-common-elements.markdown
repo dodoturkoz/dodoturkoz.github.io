@@ -17,3 +17,6 @@ description: Markdown summary with different options
 ## Basic formatting
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+
+<embed src="/essays/ccc.pdf" width="500" height="375" 
+ type="application/pdf">
