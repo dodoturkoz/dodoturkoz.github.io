@@ -13,5 +13,5 @@ author: johndoe
 externalLink: false
 ---
 
-<iframe src="https://dodoturkoz.github.io/URSS/part1.html" title="do" width="560" height="100%"></iframe>
+<iframe src="https://dodoturkoz.github.io/URSS/part1.html" title="do" width="900" height="600"></iframe>
 
