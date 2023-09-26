@@ -1,7 +1,8 @@
 ---
-title: "Markdown Common Elements"
+title: "On The Properties of The Commuting Conjugacy
+    Class Graph of The Symmetric Group "
 layout: post
-date: 2016-02-24 22:44
+date: 2023-08-15 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
