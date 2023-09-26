@@ -18,5 +18,5 @@ description: Markdown summary with different options
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
-<embed src="/essays/ccc.pdf" width="max-width" height="500" 
+<embed src="/essays/ccc.pdf" height="500" 
  type="application/pdf">
