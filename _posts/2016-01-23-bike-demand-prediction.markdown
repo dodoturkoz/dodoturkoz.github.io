@@ -13,3 +13,4 @@ author: johndoe
 externalLink: false
 ---
 
+<iframe src="https://dodoturkoz.github.io/nb_htmls/bike-prediction.html" title="do" width="150%" height="600" style="max-width: 150%;margin-left: -25%;"></iframe>
