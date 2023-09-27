@@ -1,7 +1,7 @@
 ---
 title: "Applications of Complex Numbers on Euclidean Geometry"
 layout: post
-date: 2023-09-23 22:44
+date: 2022-09-23 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
