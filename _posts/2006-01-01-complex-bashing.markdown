@@ -1,5 +1,5 @@
 ---
-title: "Complex Bashing"
+title: "Applications of Complex Numbers on Euclidean Geometry"
 layout: post
 date: 2023-08-15 22:44
 image: /assets/images/markdown.jpg
@@ -14,5 +14,5 @@ description: Markdown summary with different options
 ---
 
 
-<embed src="/essays/ccc.pdf" width="560" height="500" 
+<embed src="/essays/complex-bashing.pdf" width="560" height="500" 
  type="application/pdf">
