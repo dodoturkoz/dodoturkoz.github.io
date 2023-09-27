@@ -1,7 +1,7 @@
 ---
 title: "A Quick Sage Tutorial on Graphs"
 layout: post
-date: 2023-08-15 22:44
+date: 2023-08-29 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
