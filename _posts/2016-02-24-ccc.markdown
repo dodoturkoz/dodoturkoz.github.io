@@ -1,5 +1,5 @@
 ---
-title: "On The Properties of The Commuting Conjugacy
+title: "Properties of The Commuting Conjugacy
     Class Graph of The Symmetric Group"
 layout: post
 date: 2023-08-15 22:44
