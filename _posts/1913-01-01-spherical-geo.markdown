@@ -1,7 +1,7 @@
 ---
 title: "The Cesàro Method for Spherical Trigonometry"
 layout: post
-date: 2023-03
+date: 2023-03-04 22:22
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
