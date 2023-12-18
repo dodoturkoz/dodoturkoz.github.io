@@ -1,7 +1,7 @@
 ---
 title: "⛈️ Extreme Weather Prediction"
 layout: post
-date: 20-01-23 22:10
+date: 21-09-23 22:10
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
@@ -12,3 +12,5 @@ category: project
 author: johndoe
 externalLink: false
 ---
+
+<a href="https://medium.com/@WDSS/stranger-weather-ahead-detecting-anomalies-in-temporal-weather-data-9630eae33ecf">Link</a> to the Medium article published by Vivek Chander, Mariam Zenaishvili, Evyanne Ewusie, and myself. 
