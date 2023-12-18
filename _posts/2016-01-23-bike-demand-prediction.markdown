@@ -1,7 +1,7 @@
 ---
 title: "🚲 Bike Demand Prediction"
 layout: post
-date: 12-10-22 22:10
+date: 2022-09-23 22:44
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
